@@ -1,85 +1,23 @@
-<div align="center">
+# 💫 About Me:
+I'm Dash, a student developer from Indonesia.<br><br>I enjoy building things, experimenting with new ideas, and solving<br>problems that probably didn't need to be solved in the first place.<br><br>I mostly work on projects around developer tools, Minecraft<br>infrastructure, and software I personally find useful.<br><br>Building under DashLabs.
 
-# 👋 Hi, I'm Dash
 
-**A developer with too many ideas.**
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/NAHnJCbFUg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dv.dash.id@gmail.com) 
 
----
+## 📚 My Stack :
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript]
 
-<p align="center">
-  <a href="https://dash-id.site" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-%23121011.svg?style=for-the-badge&logo=personal-blog&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:dv.dash.id@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/hydash-id" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://discord.gg/NAHnJCbFUg" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
+## 🗄️ Database
+(https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres]
 
----
+## ✨ Other
+(https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
-A student developer from Indonesia who enjoys turning random ideas into real projects.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=hydash-id&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=hydash-id&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hydash-id&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
-
-### 🔗 About
-
-I'm Dash, a student developer from Indonesia.
-
-I enjoy turning random ideas into real projects, especially things that make development and server management easier.
-
-Most of my projects start from curiosity, get way too complicated, and somehow end up working.
-
-Currently building under **DashLabs**.
-
----
-
-### 💻 Tech I Use
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
-
----
-
-### ⚙️ GitHub Stats & Activity
-
-| | |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=hydash-id&show_icons=true&theme=default&bg_color=212121&text_color=BDBDBD&icon_color=4CAF50&title_color=4CAF50" alt="GitHub Stats" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hydash-id&layout=compact&theme=default&bg_color=212121&text_color=BDBDBD&title_color=4CAF50" alt="Top Languages" width="400" /> |
-
-### 📊 Contribution Graph
-
-![GitHub Contribution Graph](https://github-contribution-graph.vercel.app/hydash-id?theme=night-owl&border_radius=5)
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hydash-id&theme=vue" alt="Contribution Activity" />
-</p>
-
----
-
-### 📝 Notes
-
-- 🚧 Building and experimenting with new ideas under **DashLabs**
-- 💡 Turning random ideas into projects that actually work
-- 🌐 Portfolio: https://dash-id.site
-- 💬 Discord: https://discord.gg/NAHnJCbFUg
-
----
-
-<p align="center">
-
-**DashLabs — Building ideas into reality.**
-
-</p>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hydash) 
