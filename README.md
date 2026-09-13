@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Dash, a student developer from Indonesia.<br><br>I enjoy building things, experimenting with new ideas, and solving<br>problems that probably didn't need to be solved in the first place.<br><br>I mostly work on projects around developer tools, Minecraft<br>infrastructure, and software I personally find useful.<br><br>Building under DashLabs.
+I'm Maeve, a student developer from Indonesia.<br><br>I enjoy building things, experimenting with new ideas, and solving<br>problems that probably didn't need to be solved in the first place.<br><br>I mostly work on projects around developer tools, Minecraft<br>infrastructure, and software I personally find useful.<br><br>Building under DashLabs.
 
 
 ## 🌐 Socials:
@@ -15,9 +15,9 @@ I'm Dash, a student developer from Indonesia.<br><br>I enjoy building things, ex
 ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hydash-id&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=hydash-id&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hydash-id&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=maevescz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=maevescz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=maevescz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hydash) 
