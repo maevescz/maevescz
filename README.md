@@ -3,9 +3,7 @@
 
 I'm Maeve, a student developer from Indonesia.
 
-I enjoy building things, experimenting with new ideas, and solving problems that probably didn't need to be solved in the first place.
-
-I mostly work on projects around **developer tools, Minecraft infrastructure, backend systems, and software I personally find useful.**
+I build software, developer tools, Minecraft systems, and web applications.
 
 Building things under **DashLabs**.
 
@@ -15,11 +13,10 @@ Building things under **DashLabs**.
 
 - 🎓 Student developer from Indonesia
 - 🛠️ Building projects under **DashLabs**
-- 🧩 Interested in developer tools and software engineering
-- ⛏️ Minecraft infrastructure & server development
-- 🌐 Learning full-stack development step by step
+- 🧩 Interested in software engineering and developer tools
+- ⛏️ Minecraft server development and infrastructure
+- 🌐 Building web applications and backend systems
 - 🧠 I like understanding how things work, not just making them work
-- 💡 Usually have more ideas than time to build them
 
 > **Build it. Break it. Understand it. Improve it.**
 
@@ -28,6 +25,7 @@ Building things under **DashLabs**.
 ## 🧰 Tech Stack
 
 ### Languages
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -43,6 +41,7 @@ Building things under **DashLabs**.
 ![JVM](https://img.shields.io/badge/JVM-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frontend
+
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -88,42 +87,37 @@ Building things under **DashLabs**.
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
 ---
 
 ## 🛠️ What I Build
 
 ### 🧰 Developer Tools
 
-Small tools, utilities, and experiments designed to make development easier.
+Developer tools, utilities, and software focused on improving development workflows.
 
-### ⛏️ Minecraft Infrastructure
+### ⛏️ Minecraft Development
 
-Minecraft plugins, server systems, integrations, and infrastructure experiments.
+Minecraft plugins, server systems, integrations, and infrastructure.
 
-### 🌐 Web & Backend
+### 🌐 Web Development
 
-APIs, authentication systems, dashboards, databases, and other backend-focused projects.
-
-### 🧪 Experiments
-
-Projects made simply because I wondered:
-
-> **"What if I built this myself?"**
+Web applications, APIs, authentication systems, and backend services.
 
 ---
 
 ## 🚀 Projects
 
-Some of the things I'm building and experimenting with:
+Some of the things I'm building:
 
-- **DashLabs** — My collection of software projects and experiments
-- **DashAuth** — Authentication system experiment
-- **DashAPI** — Backend/API experiments
-- **DashCLI** — Developer-focused command-line tools
-- **DashStatus** — Service monitoring experiment
-- **DashSync** — Minecraft-related synchronization and optimization experiments
+- **DashLabs** — Software projects and development tools
+- **DashAuth** — Authentication system
+- **DashAPI** — Backend/API system
+- **DashCLI** — Developer command-line tools
+- **DashStatus** — Service monitoring
+- **DashSync** — Minecraft synchronization system
 
-More ideas are probably already waiting in my notes.
+More projects are in development.
 
 ---
 
@@ -134,7 +128,6 @@ More ideas are probably already waiting in my notes.
 ![GitHub Streak](https://streak-stats.demolab.com/?user=maevescz&theme=dark&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=maevescz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 <p align="center">
   <i>Developer with too many ideas!</i>
